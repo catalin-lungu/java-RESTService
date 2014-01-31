@@ -1,1 +1,2 @@
-This is a small project that implement a REST service combined with a JPA to serve data from a MySQL database.   Actually a REST client has the possibility to execute all operations from CRUD  pattern upon the database
+This is a small project that implement a REST service combined with a JPA to serve data from a MySQL database. 
+Actually a REST client has the possibility to execute all operations from CRUD  pattern upon the database
