@@ -1,3 +1,3 @@
 This is a small project that implement a REST service combined with a JPA to serve data from a MySQL database. 
 Actually a REST client has the possibility to execute all operations from CRUD  pattern upon the database through methods like GET, POST, PUT and DELETE.
-For REST service is used Jersey 1.17 and JPA version is 2.0.
+For REST service is used Jersey 1.17 and JPA version is 2.0. 
